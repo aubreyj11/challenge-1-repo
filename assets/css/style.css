@@ -198,3 +198,21 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+.display-inline li{
+    display: inline;
+}
+
+.nav-wrapper{
+    float: right;
+    padding-top: 15px;
+    margin-right: 20px;
+}
+
+.nav-item {
+    margin-left: 25px;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
