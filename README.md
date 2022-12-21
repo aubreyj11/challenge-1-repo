@@ -18,4 +18,7 @@ To use this website, simply click on the options in the navigation bar at the to
 ## Setup Requirements
 Click on the following link to view my website deployed on Github! 
 <br>
-[Challenge 1 Website](https://aubreyj11.github.io/challenge-1-repo/#online-reputation-management/"Title")
+[Challenge 1 Website](https://aubreyj11.github.io/challenge-1-repo/#online-reputation-management/)
+
+## License
+© 2019 Horiseon Social Solution Services, Inc.
